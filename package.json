@@ -1,0 +1,25 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "pacote calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessicacj/codenation-calc.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Jéssica Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessicacj/codenation-calc/issues"
+  },
+  "homepage": "https://github.com/jessicacj/codenation-calc#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
